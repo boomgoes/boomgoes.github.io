@@ -1,18 +1,19 @@
-H2.instructions
+body.instructions
 	{
 	font-size:12px;
-	font-family:geneva;
+	font-family:Verdana;
 	}
 H1.header
 	{
-	font-size:14px;
+	font-size:16px;
 	font-weight:bold;
-	font-family:geneva;
+	font-family:Verdana;
+	text-align:center;
 	}
 body.footer
 	{
-	font-size:12px;
-	font-family:geneva;
+	font-size:10px;
+	font-family:Verdana;
 	}
 
 
