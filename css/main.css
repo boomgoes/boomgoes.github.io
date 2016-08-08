@@ -1,20 +1,18 @@
-body.instructions
-	{
-	font-size:12px;
-	font-family:Verdana;
-	}
-H1.header
+
+H1
 	{
 	font-size:16px;
 	font-weight:bold;
 	font-family:impact;
 	text-align:center;
 	}
-body.footer
+body
 	{
-	font-size:9px;
+	font-size:12px;
 	font-family:Verdana;
+	border-width:1px;
 	}
+
 
 
 
