@@ -13,11 +13,10 @@ body
 	
 	}
 
-H6
+blockquote
 	{
 	font-size:13px;
 	font-family:Verdana;
-	font-weight:normal;
+	border-width:1px;
 	}
-
 
